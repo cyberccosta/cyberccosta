@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-📚 Estudando Ciência dos Dados na UFMS e Eng. da Computação no UniSalesiano<br>🌱 Em constante busca por aprendizado<br>📨 Entre em contato comigo pelo email: lucas.carvalho7410@gmail.com 
+📚 Estudando Engenharia de Software<br>🌱 Em constante busca por aprendizado<br>📨 Entre em contato comigo pelo email: lucas.carvalho7410@gmail.com 
 
 
 ## 🌐 Redes Sociais:
