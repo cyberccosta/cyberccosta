@@ -1,21 +1,47 @@
-# 💫 Sobre mim:
-📚 Estudando Engenharia de Software<br>🌱 Em constante busca por aprendizado<br>📨 Entre em contato comigo pelo email: lucas.carvalho7410@gmail.com 
+# Olá, eu sou o Lucas 👋
 
-
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucascarvalhocosta) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 Status GitHub:
-![](https://github-readme-stats.vercel.app/api?username=CodeCosta2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeCosta2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCosta2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Troféus GitHub
-![](https://github-profile-trophy.vercel.app/?username=CodeCosta2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Profissional em transição de carreira, unindo experiência em negócios e tecnologia para atuar com **Cibersegurança (Blue Team)**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CodeCosta2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔎 Sobre mim
+
+- 🏢 Atuo atualmente com desenvolvimento de negócios em uma instituição financeira cooperativa
+- 🎓 Cursando Engenharia de Software
+- 🔵 Trilha escolhida: **Blue Team** — defesa, monitoramento e resposta a incidentes
+- 🌐 Objetivo: atuar em SOC / Análise de Segurança
+- 📚 Estudando redes, SIEM e análise de ameaças diariamente
+- 🌱 Aprendendo inglês em paralelo, para atuar em times internacionais
+
+---
+
+### 🛠️ Stack e ferramentas em estudo
+
+`Nmap` · `Wireshark` · `Wazuh` · `Splunk` · `Kali Linux` · `VirtualBox` · `Linux` · `Redes TCP/IP`
+
+---
+
+### 📂 Repositórios deste portfólio
+
+| Repositório | Descrição |
+|---|---|
+| [`home-lab`](#) | Montagem e documentação do meu laboratório virtual (VirtualBox, Kali Linux, VM alvo) |
+| [`network-analysis`](#) | Exercícios e capturas de análise de tráfego de rede |
+| [`siem-wazuh`](#) | Configuração e uso do Wazuh como SIEM para detecção de eventos |
+| [`splunk-labs`](#) | Labs e exercícios práticos com Splunk |
+| [`tryhackme-writeups`](#) | Writeups de salas resolvidas no TryHackMe |
+| [`incident-analysis`](#) | Estudos de caso e simulações de análise de incidentes |
+
+---
+
+### 📜 Certificações e cursos
+
+- ✅ Cisco — Introduction to Cybersecurity
+- 🔄 Cisco — Networking Basics (em andamento)
+- 🎯 Próximas metas: CompTIA Security+ e CySA+
+
+---
+
+### 📫 Contato
+
+Aberto a conversas sobre cibersegurança, oportunidades e trocas de conhecimento!
