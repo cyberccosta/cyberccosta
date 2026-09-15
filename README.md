@@ -6,10 +6,12 @@ Profissional em transição de carreira, unindo experiência em negócios e tecn
 
 ### 🔎 Sobre mim
 
-- 🏢 Atuo atualmente com desenvolvimento de negócios em uma instituição financeira cooperativa
+- 🏢 Atuo atualmente com desenvolvimento de negócios (seguros) em uma instituição financeira cooperativa
 - 🎓 Cursando Engenharia de Software
 - 🔵 Trilha escolhida: **Blue Team** — defesa, monitoramento e resposta a incidentes
-- 🌐 Objetivo: atuar em SOC / Análise de Segurança
+- 🌐 Objetivo: atuar em SOC / Análise de Segurança, com foco em trabalho remoto
+- 📚 Estudando redes, SIEM e análise de ameaças diariamente
+- 🌱 Aprendendo inglês em paralelo, para atuar em times internacionais
 
 ---
 
@@ -36,7 +38,7 @@ Profissional em transição de carreira, unindo experiência em negócios e tecn
 
 - ✅ Cisco — Introduction to Cybersecurity
 - 🔄 Cisco — Networking Basics (em andamento)
-- 🎯 Próximas metas: CompTIA Security+
+- 🎯 Próximas metas: CompTIA Security+ e CySA+
 
 ---
 
@@ -44,5 +46,5 @@ Profissional em transição de carreira, unindo experiência em negócios e tecn
 
 Aberto a conversas sobre cibersegurança, oportunidades e trocas de conhecimento!
 
-📧 Email: lucas.carvalho7410@gmail.com
-💼 LinkedIn: linkedin.com/in/lucascarvalhocosta
+- 📧 Email: lucas.carvalho7410@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/lucascarvalhocosta](https://www.linkedin.com/in/lucascarvalhocosta/)
