@@ -26,7 +26,6 @@ Profissional em transição de carreira, unindo experiência em negócios e tecn
 | [`home-lab`](#) | Montagem e documentação do meu laboratório virtual (VirtualBox, Kali Linux, VM alvo) |
 | [`network-analysis`](#) | Exercícios e capturas de análise de tráfego de rede |
 | [`siem-wazuh`](#) | Configuração e uso do Wazuh como SIEM para detecção de eventos |
-| [`splunk-labs`](#) | Labs e exercícios práticos com Splunk |
 | [`tryhackme-writeups`](#) | Writeups de salas resolvidas no TryHackMe |
 | [`incident-analysis`](#) | Estudos de caso e simulações de análise de incidentes |
 
