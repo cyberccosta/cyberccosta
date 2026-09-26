@@ -1,39 +1,26 @@
 # Olá, eu sou o Lucas 👋
 
-Profissional em transição de carreira, unindo experiência em negócios e tecnologia para atuar com **Cibersegurança (Blue Team)**.
+Estudante de Engenharia de Software, com experiência em **desenvolvimento web** com foco em **Python** e **Django**.
 
----
+## 🚀 Sobre mim
 
-### 🔎 Sobre mim
-
-- 🏢 Atuo atualmente com desenvolvimento de negócios em uma instituição financeira cooperativa
 - 🎓 Cursando Engenharia de Software
-- 🔵 Trilha escolhida: **Blue Team** — defesa, monitoramento e resposta a incidentes
-- 🌐 Objetivo: atuar em SOC / Análise de Segurança
+- 🌐 Focado em criação de sites, landing pages e sistemas web com Django
+- 🤝 Aberto a projetos voluntários e freelas para construir portfólio
 
----
+## 🛠️ Stack e ferramentas
 
-### 🛠️ Stack e ferramentas em estudo
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-`Nmap` · `Wireshark` · `Wazuh` · `Splunk` · `Kali Linux` · `VirtualBox` · `Linux` · `Redes TCP/IP`
+## 📌 Projetos em destaque
 
----
+_Em construção — os primeiros projetos de portfólio serão adicionados aqui em breve._
 
-### 📂 Repositórios deste portfólio
+## 📫 Contato
 
-| Repositório | Descrição |
-|---|---|
-| [`home-lab`](#) | Montagem e documentação do meu laboratório virtual (VirtualBox, Kali Linux, VM alvo) |
-| [`network-analysis`](#) | Exercícios e capturas de análise de tráfego de rede |
-| [`siem-wazuh`](#) | Configuração e uso do Wazuh como SIEM para detecção de eventos |
-| [`tryhackme-writeups`](#) | Writeups de salas resolvidas no TryHackMe |
-| [`incident-analysis`](#) | Estudos de caso e simulações de análise de incidentes |
-
----
-
-### 📫 Contato
-
-Aberto a conversas sobre cibersegurança, oportunidades e trocas de conhecimento!
-
-- 📧 Email: lucas.carvalho7410@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/lucascarvalhocosta](https://www.linkedin.com/in/lucascarvalhocosta/)
+- 📧 lucas.carvalho7410@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/lucascarvalhocosta)
