@@ -1,24 +1,23 @@
 # Olá, eu sou o Lucas 👋
 
-Estudante de Engenharia de Software, com experiência em **desenvolvimento web** com foco em **Python** e **Django**.
+Estudante de Engenharia de Software, com foco em **automação com Python** e **IA aplicada**.
 
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software
-- 🌐 Focado em criação de sites, landing pages e sistemas web com Django
+- ⚙️ Construo automações em Python e integro IA a esses fluxos
+- 🎒 Me preparando para um mochilão pela América Latina, buscando trabalhar como freelancer durante a viagem
 - 🤝 Aberto a projetos voluntários e freelas para construir portfólio
 
 ## 🛠️ Stack e ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📌 Projetos em destaque
 
-_Em construção — os primeiros projetos de portfólio serão adicionados aqui em breve._
+- **Automação de relatório de vendas** — script em Python que lê os dados de vendas do dia, roda à noite e envia um e-mail com o resumo para análise logo cedo
+- _Mais projetos de automação a caminho_
 
 ## 📫 Contato
 
